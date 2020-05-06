@@ -21,6 +21,4 @@ Also [here](https://www.py4e.com/html3/) is the link to the HTML version of Char
 
 ### Credits
 
-Have to thank Professor Charles Severance, University of Michigan for inspiring me to keep on learning. All lectures and interviews were engaging.
-
-![Cover](https://github.com/sersavn/coursera-python-for-everybody-specialization/blob/master/cover.jpg)
+Have to thank Professor Charles Severance, University of Michigan for inspiring me to keep learning. All lectures and interviews were engaging!
